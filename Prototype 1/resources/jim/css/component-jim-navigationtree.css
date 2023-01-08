@@ -1,0 +1,160 @@
+#navigationtree ins
+{
+    background: url("./images/jimsprite.png");
+}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) 
+{
+	#navigationtree ins
+	{
+	    background: url("./images/jimsprite@2x.png");
+	    background-size: 282px 90px;
+	}
+}
+
+#navigationtree { list-style-type: none; height: 100%; }
+#navigationtree li { background-position: -70px 0; background-repeat: repeat-y; line-height: 28px; white-space: nowrap; background-color: #3E4044; }
+#navigationtree > li { margin-left: 0; }
+#navigationtree ins { display: none; text-decoration: none; margin-right:2px; vertical-align:middle; width: 14px; background-position: 10px 0px; }
+#navigationtree ul { list-style-type: none; }
+#navigationtree li.first { padding-top: 2px; }
+#navigationtree > li:first-child  > .navigationTreeNodeContent > div.top-border { display:none; }
+#navigationtree > li:first-child  > div.top-border { background-color: transparent; }
+#navigationtree li.clicked { background: navy; border: 1px solid navy; padding: 0 2px 0 1px; color: white; }
+#navigationtree li.closed > ul { display: none; }
+#navigationtree a.current, #navigationtree .requirement-node.active { color: #f6f7f8; font-family: 'Montserrat-Medium'; }
+#navigationtree a:hover { opacity: 0.75; }
+#navigationtree a { color: #BDC4C7; white-space: nowrap; font-size:8.3pt; margin-left: 1px;}
+#navigationtree .folder  > a { color: #abb3b3; white-space: nowrap; }
+#navigationtree a.disabled:hover { opacity: 1; cursor: default; }
+
+#navigationtree .top-border{
+    background-color: #5F6568;
+    height: 1px;
+    width: calc(100% - 3px);
+    transform: translate(-5px, 0px);
+}
+
+#navigationtree > li > .navigationTreeNodeContent > .top-border,
+#navigationtree > li > .top-border {
+	width: calc(100% - 8px);
+	transform: none;
+}
+
+#navigationtree .navigationTreeNodeContent {
+	height: 30px;
+}
+
+.section.scenario #navigationtree .navigationTreeNodeContent {
+	height: 30px;
+}
+
+/* requirements */
+#navigationtree .requirement-node { color:#dadfe3; white-space: nowrap; font-size:8.3pt; cursor: pointer;}
+#navigationtree .requirement-node:hover { color: white;}
+#navigationtree .requirement-node.active:hover { color:#dadfe3; }
+#navigationtree .requirement-links {margin-bottom: 15px;}
+#navigationtree .requirement-field-content {margin-right: 8px; white-space: normal;}
+#navigationtree .requirement-field, #navigationtree .requirement-component, #navigationtree .requirement-integration{ margin-left: 6px; margin-bottom: 9px; color: #dadfe3; white-space: nowrap; font-size:11px; line-height: 16px;}
+#navigationtree .requirement-field-title {color: #a7afb0;}
+#navigationtree .requirement-content {margin-bottom: 5px; padding-left: 7px;}
+#navigationtree .requirement-component, #navigationtree .requirement-integration {
+    width: 115px; 
+    height: 25px;
+    margin-top: 13px;
+    margin-bottom: 16px;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 25px;
+    cursor: pointer;
+    font-weight: 400;
+    text-decoration: underline;
+    margin-right: 6px;
+}
+#navigationtree .requirement-component:hover, #navigationtree .requirement-integration:hover {opacity:0.8;}
+#navigationtree .requirement-field-content li { margin-left:15px; line-height: revert; margin-left: 18px; }
+#navigationtree .requirement-field-content ul { list-style-type: disc; }
+
+#navigationtree ins.expand { background-position: -129px -122px; width:10px; height:10px; opacity: 1; transform: rotate(-90deg); margin-right: 3px;}
+#navigationtree .requirement-node.active ins.expand {  background-position: -129px -122px; transform: translate(-2px, 0px); }
+
+#navigationtree #filterRequirements {
+    position: relative;
+    cursor: pointer;
+    line-height: 33px;
+    padding: 7px 0px 2px 17px;
+    cursor: auto;
+}
+
+#navigationtree #filterRequirements > div > * {display: inline-block;}
+
+#navigationtree #filterRequirements span {    
+    color: #dadfe3;
+    font-size: 10px;
+    vertical-align: top;
+	transform: translate(0px, -2px);
+	margin-right: 10px;
+}
+
+.requirement.section #navigationtree > li {
+	padding-left: 8px;
+}
+
+div.requirement.section #navigationtree .top-border {
+	height: 1px;
+    width: calc(100% - 8px);
+    background-color: #5d6467;
+    transform: none;
+}
+
+#navigationtree .filterCheckbox {
+    width: 10px;
+    height: 10px;
+    border: white solid 1px;
+    border-radius: 50%;
+    position: relative;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+#navigationtree .filterCheckbox > div {
+    width: 6px;
+    height: 6px;
+    background-color: white;
+    border-radius: 50%;
+    left: calc(50% - 3px);
+    top: calc(50% - 3px);
+    position: absolute;
+    display: none;
+}
+#navigationtree .filterCheckbox.active {border-color: white;}
+#navigationtree .filterCheckbox.active > div {display:block;}
+
+/* start splice images */
+#navigationtree li.closed > .navigationTreeNodeContent > ins { cursor: pointer; }
+#navigationtree li.open > .navigationTreeNodeContent > ins { background-position: -128px -121px; width: 14px; height: 10px; cursor: pointer; display: inline-block;}
+#navigationtree li.closed > .navigationTreeNodeContent > ins { background-position: -128px -121px; width: 14px; height: 10px; transform: rotate(-90deg); display: inline-block;}
+#navigationtree ins.folder { display: inline-block; background-position: -4px -29px; width:12px; height:15px; margin-right:7px; }
+#navigationtree li.open > .navigationTreeNodeContent > a > ins.folder { background-position: -29px -29px;width:12px;margin-right:7px; }
+#navigationtree li.folder.open > .navigationTreeNodeContent > ins,
+#navigationtree li.folder.closed > .navigationTreeNodeContent > ins { display : none; }
+
+#navigationtree .menu_dotred{
+    background-color: #E74747;
+    border-radius: 50%;
+    width: 7px;
+    height: 7px;
+    margin-left: 7px;
+    margin-bottom: 1px;
+}
+
+.scenario.section #navigationtree > li {
+	padding-left: 8px;
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>radio-basic-widgets-off</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="NOU" transform="translate(-554.000000, -338.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="IOS" transform="translate(438.000000, 284.149902)">
+                <g id="Elements" transform="translate(0.000000, 53.850098)">
+                    <g id="radio-ios-off" transform="translate(117.000000, 1.000000)">
+                        <path d="M12,-1 C4.82026614,-1 -1,4.82011598 -1,11.9995212 C-1,19.1790844 4.82042411,25 12,25 C19.1795759,25 25,19.1790844 25,11.9995212 C25,4.82011598 19.1797339,-1 12,-1 Z M12,1 C18.0751759,1 23,5.92469703 23,11.9995212 C23,18.0745527 18.0749686,23 12,23 C5.92503142,23 1,18.0745527 1,11.9995212 C1,5.92469703 5.92482409,1 12,1 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
