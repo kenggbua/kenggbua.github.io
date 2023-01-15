@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="iphone13promax" deviceType="mobile
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS iphone-device canvas firer commentable non-processed" alignment="left" name="Template 1" width="428" height="926">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1673806382675.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1673807729137.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="iphone13promax" deviceType="mobile
     <div id="s-3fdc8e60-5599-4003-b1ba-eff72f8203d0" class="screen growth-vertical devMobile devIOS iphone-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Motion sensor" width="428" height="926">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/3fdc8e60-5599-4003-b1ba-eff72f8203d0-1673806382675.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/3fdc8e60-5599-4003-b1ba-eff72f8203d0-1673807729137.css" />\
       <div class="freeLayout">\
       <div id="s-Paragraph_1" class="richtext manualfit firer commentable non-processed" customid="Add new motion sensor"   datasizewidth="331.4px" datasizeheight="35.0px" dataX="48.3" dataY="94.0" >\
         <div class="backgroundLayer">\
