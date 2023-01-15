@@ -1,0 +1,7 @@
+.highlightEffect {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0,153,255,80);
+    z-index: 998;
+}
