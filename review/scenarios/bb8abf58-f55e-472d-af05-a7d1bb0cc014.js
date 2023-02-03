@@ -1,5 +1,5 @@
 var content='<div id="sc-bb8abf58-f55e-472d-af05-a7d1bb0cc014" class="ui-page ui-scenario sc-bb8abf58-f55e-472d-af05-a7d1bb0cc014 commentable" name="default">\
-	<link type="text/css" rel="stylesheet" href="./resources/scenarios/bb8abf58-f55e-472d-af05-a7d1bb0cc014-1675449735852.css" />\
+	<link type="text/css" rel="stylesheet" href="./resources/scenarios/bb8abf58-f55e-472d-af05-a7d1bb0cc014-1675450239664.css" />\
     <div class="filterDialog">\
       <span id="filterDialogImage"></span>\
       <span id="filterDialogTitle">Start Scenario Simulation</span>\
