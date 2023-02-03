@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="iphone13promax" deviceType="mobile
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS iphone-device canvas firer commentable non-processed" alignment="left" name="Template 1" width="428" height="926">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1673807729137.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1675449558274.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="iphone13promax" deviceType="mobile
     <div id="s-53d2c749-f59f-43d7-9af2-220c4eafca23" class="screen growth-vertical devMobile devIOS iphone-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Audio command" width="428" height="926">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/53d2c749-f59f-43d7-9af2-220c4eafca23-1673807729137.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/53d2c749-f59f-43d7-9af2-220c4eafca23-1675449558274.css" />\
       <div class="freeLayout">\
       <div id="s-Paragraph_1" class="richtext manualfit firer commentable non-processed" customid="Add new audio command"   datasizewidth="331.4px" datasizeheight="35.0px" dataX="48.3" dataY="94.0" >\
         <div class="backgroundLayer">\
@@ -356,7 +356,7 @@ var content='<div class="ui-page" deviceName="iphone13promax" deviceType="mobile
                     </div>\
                   </div>\
                 </div>\
-                <div id="s-Button_10" class="button multiline manualfit firer commentable non-processed" customid="All lights 50% brightness"   datasizewidth="134.3px" datasizeheight="36.0px" dataX="15.7" dataY="59.0" >\
+                <div id="s-Button_10" class="button multiline manualfit firer commentable non-processed" customid="Set all lights to 50%"   datasizewidth="134.3px" datasizeheight="36.0px" dataX="15.7" dataY="59.0" >\
                   <div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
@@ -365,7 +365,7 @@ var content='<div class="ui-page" deviceName="iphone13promax" deviceType="mobile
                     <div class="paddingLayer">\
                       <div class="content">\
                         <div class="valign">\
-                          <span id="rtr-s-Button_10_0">All lights 50% brightness</span>\
+                          <span id="rtr-s-Button_10_0">Set all lights to 50%</span>\
                         </div>\
                       </div>\
                     </div>\
@@ -375,6 +375,24 @@ var content='<div class="ui-page" deviceName="iphone13promax" deviceType="mobile
 \
               </div>\
             </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Path_1" class="path firer click commentable non-processed" customid="Chevron left"   datasizewidth="33.5px" datasizeheight="44.6px" dataX="47.3" dataY="820.0"  >\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+          	<?xml version="1.0" encoding="UTF-8"?>\
+          	<svg xmlns="http://www.w3.org/2000/svg" width="33.48683547973633" height="44.591800689697266" viewBox="47.25658249855291 820.0 33.48683547973633 44.591800689697266" preserveAspectRatio="none">\
+          	  <g>\
+          	    <defs>\
+          	      <path id="s-Path_1-53d2c" d="M47.25658249855291 842.2959003114588 C47.25658249855291 843.1756216429549 47.68296282940709 843.929792403265 48.60129089964276 844.5832897812967 L74.11819813835925 863.7372469551256 C74.83953216106883 864.2900764058046 75.75789937815068 864.5917992591862 76.84045558566979 864.5917992591862 C79.004827769435 864.5917992591862 80.74341750145118 863.2848045031228 80.74341750145118 861.6005798113717 C80.74341750145118 860.7711910798206 80.2840470556899 860.0421893469457 79.56271303298033 859.4639072126921 L56.57110834089442 842.2959003114588 L79.56271303298033 825.1278088588764 C80.2840470556899 824.5496699164238 80.74341750145118 823.7955864349257 80.74341750145118 822.9912249027403 C80.74341750145118 821.3070847623384 79.004827769435 820.0 76.84045558566979 820.0 C75.75789937815068 820.0 74.83953216106883 820.3016396657639 74.11819813835925 820.8546395828728 L48.60129089964276 839.9833445416485 C47.68296282940709 840.6620109471155 47.25658249855291 841.4161789799629 47.25658249855291 842.2959003114588 Z "></path>\
+          	    </defs>\
+          	    <g style="mix-blend-mode:normal">\
+          	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_1-53d2c" fill="#000000" fill-opacity="1.0"></use>\
+          	    </g>\
+          	  </g>\
+          	</svg>\
+\
           </div>\
         </div>\
       </div>\

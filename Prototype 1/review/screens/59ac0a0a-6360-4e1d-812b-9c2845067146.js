@@ -2,17 +2,17 @@ var content='<div class="ui-page" deviceName="iphone13promax" deviceType="mobile
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS iphone-device canvas firer commentable non-processed" alignment="left" name="Template 1" width="428" height="926">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1673807729137.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1675449558274.css" />\
       <div class="freeLayout">\
       </div>\
 \
       </div>\
       <div id="loadMark"></div>\
     </div>\
-    <div id="s-59ac0a0a-6360-4e1d-812b-9c2845067146" class="screen growth-vertical devMobile devIOS iphone-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Living room" width="428" height="926">\
+    <div id="s-59ac0a0a-6360-4e1d-812b-9c2845067146" class="screen growth-vertical devMobile devIOS iphone-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Bed room" width="428" height="926">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/59ac0a0a-6360-4e1d-812b-9c2845067146-1673807729137.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/59ac0a0a-6360-4e1d-812b-9c2845067146-1675449558274.css" />\
       <div class="freeLayout">\
       <div id="s-Paragraph_1" class="richtext manualfit firer commentable non-processed" customid="Bed room"   datasizewidth="331.4px" datasizeheight="35.0px" dataX="48.3" dataY="94.0" >\
         <div class="backgroundLayer">\
@@ -402,6 +402,24 @@ var content='<div class="ui-page" deviceName="iphone13promax" deviceType="mobile
 \
               </div>\
             </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Path_17" class="path firer click commentable non-processed" customid="Chevron left"   datasizewidth="33.5px" datasizeheight="44.6px" dataX="48.3" dataY="763.0"  >\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+          	<?xml version="1.0" encoding="UTF-8"?>\
+          	<svg xmlns="http://www.w3.org/2000/svg" width="33.48683547973633" height="44.591800689697266" viewBox="48.31640625000159 762.9999999999995 33.48683547973633 44.591800689697266" preserveAspectRatio="none">\
+          	  <g>\
+          	    <defs>\
+          	      <path id="s-Path_17-59ac0" d="M48.31640625000159 785.2959003114584 C48.31640625000159 786.1756216429544 48.742786580855764 786.9297924032645 49.66111465109145 787.5832897812962 L75.17802188980794 806.7372469551251 C75.89935591251752 807.2900764058041 76.81772312959936 807.5917992591858 77.90027933711846 807.5917992591858 C80.06465152088369 807.5917992591858 81.80324125289985 806.2848045031224 81.80324125289985 804.6005798113713 C81.80324125289985 803.7711910798201 81.34387080713859 803.0421893469453 80.622536784429 802.4639072126917 L57.6309320923431 785.2959003114584 L80.622536784429 768.1278088588759 C81.34387080713859 767.5496699164233 81.80324125289985 766.7955864349252 81.80324125289985 765.9912249027399 C81.80324125289985 764.3070847623379 80.06465152088369 762.9999999999995 77.90027933711846 762.9999999999995 C76.81772312959936 762.9999999999995 75.89935591251752 763.3016396657634 75.17802188980794 763.8546395828723 L49.66111465109145 782.9833445416481 C48.742786580855764 783.662010947115 48.31640625000159 784.4161789799624 48.31640625000159 785.2959003114584 Z "></path>\
+          	    </defs>\
+          	    <g style="mix-blend-mode:normal">\
+          	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_17-59ac0" fill="#000000" fill-opacity="1.0"></use>\
+          	    </g>\
+          	  </g>\
+          	</svg>\
+\
           </div>\
         </div>\
       </div>\

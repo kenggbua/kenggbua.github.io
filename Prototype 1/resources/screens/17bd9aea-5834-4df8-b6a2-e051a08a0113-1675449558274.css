@@ -807,7 +807,7 @@
 #s-17bd9aea-5834-4df8-b6a2-e051a08a0113 #s-Button_9 {
   position: absolute;
   width: 134.31640624999793px;
-  min-height: 32.17241379310349px;
+  min-height: 36.0px;
   -webkit-transform: rotate(0.0deg);
   -moz-transform: rotate(0.0deg);
   transform: rotate(0.0deg);
@@ -919,6 +919,11 @@
   font-size: 11.25pt;
   font-style: normal;
   font-weight: 400;
+}
+#s-17bd9aea-5834-4df8-b6a2-e051a08a0113 #s-Path_1 {
+  position: absolute;
+  width: 33.48683547973633px;
+  height: 44.591800689697266px;
 }
 .devMobile #jim-container .ui-page {
   overflow-x: hidden;
