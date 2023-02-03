@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="iphone13promax" deviceType="mobile
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS iphone-device canvas firer commentable non-processed" alignment="left" name="Template 1" width="428" height="926">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1673807729137.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1675449735852.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="iphone13promax" deviceType="mobile
     <div id="s-d12245cc-1680-458d-89dd-4f0d7fb22724" class="screen growth-vertical devMobile devIOS iphone-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Screen 1" width="428" height="926">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1673807729137.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1675449735852.css" />\
       <div class="freeLayout">\
       <div id="s-Paragraph_1" class="richtext manualfit firer ie-background commentable non-processed" customid="Smart Lights app"   datasizewidth="183.0px" datasizeheight="53.0px" dataX="122.5" dataY="245.0" >\
         <div class="backgroundLayer">\

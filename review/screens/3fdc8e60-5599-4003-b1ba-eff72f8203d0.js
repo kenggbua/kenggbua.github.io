@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="iphone13promax" deviceType="mobile
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS iphone-device canvas firer commentable non-processed" alignment="left" name="Template 1" width="428" height="926">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1673807729137.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1675449735852.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="iphone13promax" deviceType="mobile
     <div id="s-3fdc8e60-5599-4003-b1ba-eff72f8203d0" class="screen growth-vertical devMobile devIOS iphone-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Motion sensor" width="428" height="926">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/3fdc8e60-5599-4003-b1ba-eff72f8203d0-1673807729137.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/3fdc8e60-5599-4003-b1ba-eff72f8203d0-1675449735852.css" />\
       <div class="freeLayout">\
       <div id="s-Paragraph_1" class="richtext manualfit firer commentable non-processed" customid="Add new motion sensor"   datasizewidth="331.4px" datasizeheight="35.0px" dataX="48.3" dataY="94.0" >\
         <div class="backgroundLayer">\
@@ -179,8 +179,8 @@ var content='<div class="ui-page" deviceName="iphone13promax" deviceType="mobile
                           <tbody>\
                             <tr>\
                               <td >\
-                                <div class="option ">Daylight &lt; 50%</div>\
-                                <div class="option ">Daytime past 18pm</div>\
+                                <div class="option ">Living room door</div>\
+                                <div class="option ">Living room shelf</div>\
                               </td>\
                             </tr>\
                           </tbody>\
@@ -341,7 +341,7 @@ var content='<div class="ui-page" deviceName="iphone13promax" deviceType="mobile
           	<div class="layoutWrapper scrollable">\
           	  <div class="paddingLayer">\
                 <div class="freeLayout">\
-                <div id="s-Button_9" class="button multiline manualfit firer commentable non-processed" customid="Living room lights on"   datasizewidth="134.3px" datasizeheight="36.0px" dataX="15.7" dataY="13.0" >\
+                <div id="s-Button_9" class="button multiline manualfit firer commentable non-processed" customid="Lights on"   datasizewidth="134.3px" datasizeheight="36.0px" dataX="15.7" dataY="13.0" >\
                   <div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
@@ -350,7 +350,7 @@ var content='<div class="ui-page" deviceName="iphone13promax" deviceType="mobile
                     <div class="paddingLayer">\
                       <div class="content">\
                         <div class="valign">\
-                          <span id="rtr-s-Button_9_0">Living room lights on</span>\
+                          <span id="rtr-s-Button_9_0">Lights on</span>\
                         </div>\
                       </div>\
                     </div>\
@@ -375,6 +375,24 @@ var content='<div class="ui-page" deviceName="iphone13promax" deviceType="mobile
 \
               </div>\
             </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Path_1" class="path firer click commentable non-processed" customid="Chevron left"   datasizewidth="33.5px" datasizeheight="44.6px" dataX="47.3" dataY="822.0"  >\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+          	<?xml version="1.0" encoding="UTF-8"?>\
+          	<svg xmlns="http://www.w3.org/2000/svg" width="33.48683547973633" height="44.591800689697266" viewBox="47.25658249855291 822.0 33.48683547973633 44.591800689697266" preserveAspectRatio="none">\
+          	  <g>\
+          	    <defs>\
+          	      <path id="s-Path_1-3fdc8" d="M47.25658249855291 844.2959003114588 C47.25658249855291 845.1756216429549 47.68296282940709 845.929792403265 48.60129089964276 846.5832897812967 L74.11819813835925 865.7372469551256 C74.83953216106883 866.2900764058046 75.75789937815068 866.5917992591862 76.84045558566979 866.5917992591862 C79.004827769435 866.5917992591862 80.74341750145118 865.2848045031228 80.74341750145118 863.6005798113717 C80.74341750145118 862.7711910798206 80.2840470556899 862.0421893469457 79.56271303298033 861.4639072126921 L56.57110834089442 844.2959003114588 L79.56271303298033 827.1278088588764 C80.2840470556899 826.5496699164238 80.74341750145118 825.7955864349257 80.74341750145118 824.9912249027403 C80.74341750145118 823.3070847623384 79.004827769435 822.0 76.84045558566979 822.0 C75.75789937815068 822.0 74.83953216106883 822.3016396657639 74.11819813835925 822.8546395828728 L48.60129089964276 841.9833445416485 C47.68296282940709 842.6620109471155 47.25658249855291 843.4161789799629 47.25658249855291 844.2959003114588 Z "></path>\
+          	    </defs>\
+          	    <g style="mix-blend-mode:normal">\
+          	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_1-3fdc8" fill="#000000" fill-opacity="1.0"></use>\
+          	    </g>\
+          	  </g>\
+          	</svg>\
+\
           </div>\
         </div>\
       </div>\
