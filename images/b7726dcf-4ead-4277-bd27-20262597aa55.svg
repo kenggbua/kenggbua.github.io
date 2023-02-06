@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="31px" viewBox="0 0 51 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>toggle-button-off</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="toggle-button-off" fill-rule="nonzero">
+            <path d="M0,15.5 C0,6.93959 6.93959,0 15.5,0 L35.5,0 C44.0604,0 51,6.93959 51,15.5 L51,15.5 C51,24.0604 44.0604,31 35.5,31 L15.5,31 C6.93959,31 0,24.0604 0,15.5 L0,15.5 Z" id="Path" fill="#E5E5EA"></path>
+            <circle id="Oval" fill="#FFFFFF" cx="15.5" cy="15.5" r="13.5"></circle>
+        </g>
+    </g>
+</svg>
